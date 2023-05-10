@@ -1,2 +1,2 @@
-# gbi6python
+# PYTHON
 Módulo de Python en Bioinformática
